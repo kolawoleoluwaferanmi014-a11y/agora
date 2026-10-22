@@ -1,6 +1,4 @@
 node_modules
-.env
-.env.local
 .next
 dist
 
@@ -36,3 +34,4 @@ pr-*.md
 
 # Session changelog (generated per-session, not part of the repo)
 CHANGES.md
+config.bat
